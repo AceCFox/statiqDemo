@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>My Blog</title>
+		<link>/</link>
+		<description />
+		<copyright>Copyright © 2023</copyright>
+		<pubDate>Fri, 22 Dec 2023 17:37:43 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Dec 2023 17:37:43 GMT</lastBuildDate>
+		<item>
+			<title>Selkie</title>
+			<link>/posts/selkie</link>
+			<description>&lt;p&gt;She is a very kind and beautiful cat.&lt;/p&gt;</description>
+			<guid isPermaLink="false">/posts/selkie</guid>
+			<pubDate>Fri, 22 Dec 2023 11:37:43 GMT</pubDate>
+			<content:encoded>&lt;h1 id="selkie"&gt;Selkie&lt;/h1&gt;
+&lt;img src="../images/Selkie.jpg" width="300" height="400"&gt;
+&lt;p&gt;She is a very kind and beautiful cat.&lt;/p&gt;
+&lt;p&gt;She loves having her chin pet and hates the vet.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+  &amp;quot;firstName&amp;quot;: &amp;quot;Selkie&amp;quot;,
+  &amp;quot;lastName&amp;quot;: &amp;quot;Fox&amp;quot;,
+  &amp;quot;age&amp;quot;: 14
+}
+&lt;/code&gt;&lt;/pre&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Ringo</title>
+			<link>/posts/ringo</link>
+			<guid isPermaLink="false">/posts/ringo</guid>
+			<pubDate>Fri, 22 Dec 2023 10:38:51 GMT</pubDate>
+			<content:encoded>&lt;h1 id="ringo"&gt;Ringo&lt;/h1&gt;
+&lt;img src="../images/ringo.jpg" width="400" height="300"&gt;
+&lt;ul&gt;
+&lt;li&gt;Full name : Ring-Tailed Lemur&lt;/li&gt;
+&lt;li&gt;Likes: bullying dogs&lt;/li&gt;
+&lt;li&gt;Dislikes: waiting for the food dispenser&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Bashti</title>
+			<link>/posts/bashti</link>
+			<description>&lt;p&gt;She is one of the smallest cats I've ever met with the shortest tail&lt;/p&gt;</description>
+			<guid isPermaLink="false">/posts/bashti</guid>
+			<pubDate>Thu, 21 Dec 2023 21:00:22 GMT</pubDate>
+			<content:encoded>&lt;h1 id="bashti"&gt;Bashti&lt;/h1&gt;
+&lt;img src="../images/bashti.jpg" width="300" height="400"&gt;
+&lt;p&gt;She is one of the smallest cats I've ever met with the shortest tail&lt;/p&gt;
+&lt;p&gt;Likes sleeping on people, does not like loud noises.&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Slug</title>
+			<link>/posts/slug</link>
+			<description>&lt;p&gt;He is so tiny and silly and sweet.&lt;/p&gt;</description>
+			<guid isPermaLink="false">/posts/slug</guid>
+			<pubDate>Thu, 21 Dec 2023 20:57:24 GMT</pubDate>
+			<content:encoded>&lt;h1 id="slug"&gt;Slug&lt;/h1&gt;
+&lt;img src="../images/slug.jpg" width="300" height="400"&gt;
+&lt;p&gt;He is so tiny and silly and sweet.&lt;/p&gt;
+&lt;p&gt;Likes sleeping on random people, does not link things that are too tall for him to climb.&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Spriggan</title>
+			<link>/posts/spriggan</link>
+			<description>&lt;p&gt;He is very loud and anxious.&lt;/p&gt;</description>
+			<guid isPermaLink="false">/posts/spriggan</guid>
+			<pubDate>Thu, 21 Dec 2023 20:55:46 GMT</pubDate>
+			<content:encoded>&lt;h1 id="spriggan"&gt;Spriggan&lt;/h1&gt;
+&lt;img src="../images/spriggan.jpg" width="300" height="400"&gt;
+&lt;p&gt;He is very loud and anxious.&lt;/p&gt;
+&lt;p&gt;Loves reassurance and head pets. Hates people he doesn't know&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+	</channel>
+</rss>

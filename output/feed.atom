@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>/</id>
+	<title>My Blog</title>
+	<link rel="self" href="/" />
+	<rights>Copyright © 2023</rights>
+	<updated>2023-12-22T17:37:43Z</updated>
+	<entry>
+		<id>/posts/selkie</id>
+		<title>Selkie</title>
+		<link href="/posts/selkie" />
+		<updated>2023-12-22T11:37:43Z</updated>
+		<content>&lt;h1 id="selkie"&gt;Selkie&lt;/h1&gt;
+&lt;img src="../images/Selkie.jpg" width="300" height="400"&gt;
+&lt;p&gt;She is a very kind and beautiful cat.&lt;/p&gt;
+&lt;p&gt;She loves having her chin pet and hates the vet.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+  &amp;quot;firstName&amp;quot;: &amp;quot;Selkie&amp;quot;,
+  &amp;quot;lastName&amp;quot;: &amp;quot;Fox&amp;quot;,
+  &amp;quot;age&amp;quot;: 14
+}
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+		<summary>&lt;p&gt;She is a very kind and beautiful cat.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>/posts/ringo</id>
+		<title>Ringo</title>
+		<link href="/posts/ringo" />
+		<updated>2023-12-22T10:38:51Z</updated>
+		<content>&lt;h1 id="ringo"&gt;Ringo&lt;/h1&gt;
+&lt;img src="../images/ringo.jpg" width="400" height="300"&gt;
+&lt;ul&gt;
+&lt;li&gt;Full name : Ring-Tailed Lemur&lt;/li&gt;
+&lt;li&gt;Likes: bullying dogs&lt;/li&gt;
+&lt;li&gt;Dislikes: waiting for the food dispenser&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	<entry>
+		<id>/posts/bashti</id>
+		<title>Bashti</title>
+		<link href="/posts/bashti" />
+		<updated>2023-12-21T21:00:22Z</updated>
+		<content>&lt;h1 id="bashti"&gt;Bashti&lt;/h1&gt;
+&lt;img src="../images/bashti.jpg" width="300" height="400"&gt;
+&lt;p&gt;She is one of the smallest cats I've ever met with the shortest tail&lt;/p&gt;
+&lt;p&gt;Likes sleeping on people, does not like loud noises.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;She is one of the smallest cats I've ever met with the shortest tail&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>/posts/slug</id>
+		<title>Slug</title>
+		<link href="/posts/slug" />
+		<updated>2023-12-21T20:57:24Z</updated>
+		<content>&lt;h1 id="slug"&gt;Slug&lt;/h1&gt;
+&lt;img src="../images/slug.jpg" width="300" height="400"&gt;
+&lt;p&gt;He is so tiny and silly and sweet.&lt;/p&gt;
+&lt;p&gt;Likes sleeping on random people, does not link things that are too tall for him to climb.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;He is so tiny and silly and sweet.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>/posts/spriggan</id>
+		<title>Spriggan</title>
+		<link href="/posts/spriggan" />
+		<updated>2023-12-21T20:55:46Z</updated>
+		<content>&lt;h1 id="spriggan"&gt;Spriggan&lt;/h1&gt;
+&lt;img src="../images/spriggan.jpg" width="300" height="400"&gt;
+&lt;p&gt;He is very loud and anxious.&lt;/p&gt;
+&lt;p&gt;Loves reassurance and head pets. Hates people he doesn't know&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;He is very loud and anxious.&lt;/p&gt;</summary>
+	</entry>
+</feed>
